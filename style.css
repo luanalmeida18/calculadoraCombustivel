@@ -1,0 +1,16 @@
+#card {
+  border: none;
+}
+
+.card-body {
+  background-color: rgb(12, 0, 51); 
+  border-radius: 50px 10px;
+}
+
+body .container {
+  width: 600px; 
+}
+
+#entradas {
+  width: 60%"
+}
